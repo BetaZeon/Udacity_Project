@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "HAWebApp"
+  },
+  {
+    "ParameterKey": "WebAppServersMinSize",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "WebAppServersMaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "WebAppServersDesiredCapacity",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "S3CodeRepo",
+    "ParameterValue": "s3://udacity-pro2/udacity.zips"
+  },
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "jumpbox"
+  }
+]
