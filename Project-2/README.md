@@ -42,7 +42,7 @@ Infrastructure-as-code (IAC) that automates the process of creating a secured an
 
 ![alt text][architecture]
 
-[architecture]: https://github.com/BetaZeon/Udacity_Project/blob/master/Project-2/High%20Availability%20Web%20ApplicationV2.png"Architecture Diagram"
+[architecture]: Project-2/High Availability Web ApplicationV2.png"Architecture Diagram"
 
 <br>
 
