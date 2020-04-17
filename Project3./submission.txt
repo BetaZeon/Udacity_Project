@@ -1,0 +1,7 @@
+Ashwani Tripathi / For Udacity Cloud DevOps Project 4
+
+# Jenkins Pipelines on AWS
+
+Link to GitHub repo: https://github.com/BetaZeon/Udacity_Project
+
+Screenshots: Included with this text in zip file. Also available in git hub repo. 
